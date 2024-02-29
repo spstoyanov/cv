@@ -1,0 +1,138 @@
+---
+# better experience with https://jsonformatter.org/yaml-viewer
+
+CV:
+  Education:
+    secondary_school:
+      - High school of Mathematics and Applied science "Ekzarh Antim I" Vidin, Bulgaria
+    University:
+      - Sofia University "St. Kliment Ohridski", Sofia, Bulgaria
+  Work experience:
+    More Senior DevOps Engineer:
+      period: 2024 - now
+      company: Tinqin
+      type: Permanent
+      description:
+        - Supporting domain joins of several organizations in multiple scopes
+        - Handling project migrations for a project group/domain
+        - Consulting services in several teams
+        - Supporting dev teams to build healthy project roadmap
+        - Refactoring the CICD automation library
+        - Coordinating DevOps topics/tasks for a project group
+        - Coaching newcomers
+    Senior DevOps engineer:
+      company: Schwarz Global Services
+      date: 2021 - 2023 (2 years)
+      type: Permanent
+      technology used:
+        - Clouds: Onprem, OpenStack, Azure
+        - SCM: GitLab, Azure DevOps
+        - Storage: Artifactory, Azure Blob, NFS
+        - Automation: Python, bash, Powershell, node, Ansible, Terraform, Chef, Vault solutions
+        - OS: Windows server, Debian, Redhat, Centos
+        - Monitoring: Prometheus, Grafana
+        - Daily usage: Git, Python, Bash, Powershell, Docker, Kubernetes, AWS, REST, and more...
+      description:
+        - Migration of old on-prem projects to a centralized multidivisional project structure
+        - Refactoring Ansible collection for management of a complex BA software for several clouds and clients
+        - Applying company standards and best practices across projects
+        - Architecting Ansible collection to comply with multitenant projects
+        - Ensuring ISO compliance for the supported environments and services
+    DevOps Engineer:
+      company: Hedgeserv
+      type: Permanent
+      date: 2018 - 2021 (3 years)
+      technology used:
+        - Clouds: Onprem, AWS
+        - OS: vCenter, 10+ Linux distributions, Windows server 2008-2012
+        - SCM: Git, GitLab, GitHub enterprise
+        - Storage: Artifactory, NFS, S3, block storage, Docker layers
+        - Automation: Python, bash, Powershell, node, Ansible, Terraform, Chef, msbuild, Vault solutions
+        - Monitoring: Elastic stack / Kibana + other custom solutions
+        - Daily usage: Git, Python, bash, Powershell, Docker, Kubernetes, Helm, AWS, REST and more...
+        - Other: .net, Maven, Java, Gradle, MSBuild, npm, ng ... 
+      description:
+        - Application Release Engineering and Automation
+        - Applying company standartizations and best practices across projects
+        - Contributing to OS Environment automation and Infrastructure as a Code projects
+        - Building projects/environments that comply with ISO 27001 standards and/or technology custom solutions
+        - Being part of architecting and Implementing application scalability and clustering solutions from 0 to unlimited
+        - Migrating obsolete dev environments and projects to up-to-date cloud-agnostic projects (SaaS and PaaS)
+        - Part of a global DevOps team that drives standardizations, shared libraries and best practices for healthy and stable environments
+        - Analyzing and Implementing solutions for performance bottlenecks across domain-shared services
+        - In close collaboration with the top layer mgmt team in the scope of environment security improvements
+        - In daily collaboration with dev teams for coaching and adopting new CI/CD processes or ISO compliance
+        - Building environment/project cache
+        - Configuratuon management / Maintaining global Ansible inventories
+        - Daily Python developer for automation engine
+        - Scaling solutions per region
+        - Learning new stuff every day
+        - Blockchain
+        - VMware/vSphere, Linux/Windows, GitHub Enterprise, Artifactory, Amazon AWS, Microsoft Azure, Python, bash, Powershell, terraform, ansible, docker, Kubernetes, REST, 
+        - Supporting 150+ projects in trunk and xn in test environments also god being god
+    QA Engineer:
+      company: Experian
+      type: permanent
+      date: 2017 - 2019 (1y, 9m)
+      description:
+        - ISTQB practices
+        - Manual testing
+        - Automation testing
+        - Bug reporting
+        - QFTest, SOAP, REST
+    Junior Devops Engineer:
+      company: Software AG
+      type: permanent
+      date: 2015-2016 (1y, 4m)
+      technology used:
+        - Java EE, apache maven, gradle, Jenkins
+      description:
+        - Supporting CI/CD automation project based on Apache Maven
+        - Debugging, driving fixes and releases
+    Technical Support Engineer:
+      company: Hewlett Packard (yes, HP)
+      type: Permanent
+      date: 2014-2015 (1y)
+      technology used:
+        - Powershell, sh (domono E-mail server console)
+        - Actibe Directory, Windows Server, Exchange
+        - Access management
+        - Monitoring
+      description:
+        - Configureing user accounts
+        - Incident management
+        - automation scripts for handling server/service maintenance
+    Performance engineer:
+      company: Software AG
+      type: University internship
+      date: 2012/2013 (6m)
+      Tech:
+        - Silk Performer, Jenkins, Java EE, Oracle DB, Apache Maven
+      description:
+        - Maintaining automation projects for deploying and running performance tests for the company Platform team
+        - Creating new tests for the incoming features/changes
+        - Creating report services
+        - Performance baselines and beta testing
+    System Administrator:
+      company: Unicredit Bulbank
+      type: internship
+      date: 2012 (4m)
+      Tech:
+        - Powershell, Microsoft Active Directory shell and console
+        - Microsoft Office
+      description:
+        - Generating Active Directory reports
+  Languages:
+    - Bulgarian (native)
+    - English
+    - "A little this by this"
+  Drive License:
+    - A, B, M 
+    - Eventually, everything that moves
+  Hobbies:
+    - ~*
+    - To participate and contribute to the "avoid sitting on a chair all day/life" brotherhood
+  Contacts:
+    - email: simeonplamenovstoyanov@gmail.com
+    - phone: 0877402725
+    - 0.0.0.0
